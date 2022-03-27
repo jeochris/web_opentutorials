@@ -1,0 +1,25 @@
+{
+  "name": "web_opentutorials",
+  "version": "1.0.0",
+  "description": "생활코딩 WEB 연습",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeochris/web_opentutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeochris/web_opentutorials/issues"
+  },
+  "homepage": "https://github.com/jeochris/web_opentutorials#readme",
+  "dependencies": {
+    "sanitize-html": "^2.7.0"
+  }
+}
