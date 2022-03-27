@@ -1,5 +1,5 @@
 var fs = require('fs');
 
-fs.readFile('sample.txt', 'utf8', function(err, data){
+fs.readFile('node_practice/sample.txt', 'utf8', function(err, data){
     console.log(data);
 });
